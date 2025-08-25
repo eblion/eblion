@@ -13,3 +13,4 @@ I like building small projects to practice coding and problem solving.
 
 ## 📫 Contact
 - Email: Ebenjamin.Business@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/ethan-benjamin-379919360/)
