@@ -17,8 +17,9 @@ Computer Science student at the **University of Tennessee, Knoxville** (Software
 ## 📂 Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [Playlist-to-MP3 Converter]([[repo link](https://github.com/eblion/Spotify-Playlist-Converter)]) | Automates playlist-to-audio conversion with embedded album art and metadata | Python, Spotipy, FFmpeg, Mutagen |
+| [Hack4Impact UTK projects](https://github.com/hack4impact-utk) | Web apps built by UTK students for nonprofits | TypeScript, JavaScript, Git |
 | [TVC Control Loop]([[repo link](https://github.com/eblion/Spotify-Playlist-Converter)]) | Real-time control loop for a simulated thrust vector (add only if you can make it public) | C++, Arduino |
+| [Playlist-to-MP3 Converter]([[repo link](https://github.com/eblion/Spotify-Playlist-Converter)]) | Automates playlist-to-audio conversion with embedded album art and metadata | Python, Spotipy, FFmpeg, Mutagen |
 
 ## 🏆 Highlights
 - 3rd place, Lipscomb University Hackathon (high school division)
