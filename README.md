@@ -1,4 +1,4 @@
-# Hi, I'm Ethan Benjamin 👋
+# Hi, I'm Ethan Benjamin 
 
 Computer Science student at the **University of Tennessee, Knoxville** (Software Engineering focus, Chancellor's Honors, graduating Spring 2029). I build control systems, full-stack web apps, and automation tools.
 
@@ -17,9 +17,8 @@ Computer Science student at the **University of Tennessee, Knoxville** (Software
 ## 📂 Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [To-Do Reminder Web App]([repo link]) | Full-stack task manager with scheduled desktop reminders and persistent storage | Python, Flask, SQLite, APScheduler, HTML/CSS |
-| [Playlist-to-MP3 Converter]([repo link]) | Automates playlist-to-audio conversion with embedded album art and metadata | Python, Spotipy, FFmpeg, Mutagen |
-| [TVC Control Loop]([repo link]) | Real-time control loop for a simulated thrust vector (add only if you can make it public) | C++, Arduino |
+| [Playlist-to-MP3 Converter]([[repo link](https://github.com/eblion/Spotify-Playlist-Converter)]) | Automates playlist-to-audio conversion with embedded album art and metadata | Python, Spotipy, FFmpeg, Mutagen |
+| [TVC Control Loop]([[repo link](https://github.com/eblion/Spotify-Playlist-Converter)]) | Real-time control loop for a simulated thrust vector (add only if you can make it public) | C++, Arduino |
 
 ## 🏆 Highlights
 - 3rd place, Lipscomb University Hackathon (high school division)
