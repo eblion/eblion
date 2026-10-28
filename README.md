@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34085808/README.md)
 <p align="center">
   <a href="https://github.com/eblion">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Ethan%20Benjamin" alt="Hello! I&#39;m Ethan Benjamin" />
