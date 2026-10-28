@@ -38,6 +38,14 @@ CS &amp; Chancellor's Honors @ UTK | Software Testing Intern @ SYNK | Rocket con
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+### 📂 Projects
+
+<p align="left">
+  <a href="https://github.com/hack4impact-utk"><img src="https://img.shields.io/badge/Hack4Impact%20UTK-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Hack4Impact UTK projects" /></a>
+  <a href="https://github.com/eblion/ACE"><img src="https://img.shields.io/badge/TVC%20Control%20Loop-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="TVC Control Loop" /></a>
+  <a href="https://github.com/eblion/Spotify-Playlist-Converter"><img src="https://img.shields.io/badge/Playlist--to--MP3%20Converter-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Playlist-to-MP3 Converter" /></a>
+</p>
+
 ### 🔗 Connect With Me
 
 <p align="left">
